@@ -1,0 +1,12 @@
+Python,Linguagem muito utilizada mundialmente
+Brasilia,Capital do Brasil
+Branco,É uma cor
+Celular,Muito utilizado atualmente
+Elefante,Animal de grande porte
+Girafa,Animal de grande porte
+Basquete,Esporte Olímpico
+Coracao,Orgão do corpo
+Chiclete,Produzido a partir do látex
+Xicara,Utensílio doméstico
+Trilogia,Sequência de livros/filmes
+Pneumonia,Tipo de doença
